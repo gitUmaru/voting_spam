@@ -15,7 +15,7 @@ My friend wanted me to build a script so that another friend of his could win th
 <p>Update part II, turns out you can just wait for like 2 minutes and resume voting; turns out I can revert back to brain dead code instead.</p>
 <p>Update part III, just realized the way I coded the mouse positioning stuff only applies to 1080p monitors so either I change it whenever I use the code or figure out a way that doesn't rely on resolution. To be honest, the former sounds like less work so I am most likely going to do that. Also, I plan to run this script on public PCs using several VMs and possible even proxy through an onion server. Overkill I know, its mostly just a flex but the proxy thing is probably the last thing I'm gonna do. The VMs however I am going to use as it expedites the process by a considerable amount. </p>
 
-<h2> Results <h2>
+<h2> Results </h2>
 <p>It kinda worked. I mean the actual code itself, aside from being bad code, worked for the most part. I ran a few VMs and let the code run for an hour and considering the voting timer being 2 minutes and my bot working for every minutes, I got pretty much exactly the number of votes that could be calculated for. I used 2 VMs (slax linux) with each one running the script. In terms of goals that I set out I accomplished them however I think in a very poor and rudimentary fashion; nonetheless considering the amount of time I put in for writing the code I am content.<p>
 
 <p>I spent more time on writing the README than the actual code, but considering the banality of the task I needed to compensate elsewhere. Some sort of diary/log also felt cool to write. I hope that this serves of some purpose later on in life.</p>
